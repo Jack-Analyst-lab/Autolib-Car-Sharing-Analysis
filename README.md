@@ -4,7 +4,7 @@ Data Analysis for electric car-sharing services company.
 The company seeks to understand electric car usage over time.
 
 # Research Question
-To identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018}
+{To identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018}
 
 # Setup/Installation Requirements
 1. Google Colab/Jupyter Notebook.
