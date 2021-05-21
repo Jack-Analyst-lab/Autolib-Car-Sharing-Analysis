@@ -13,12 +13,12 @@ To identify the most popular hour of the day for picking up a shared electric ca
 4. Exploratory data analysis techniques.
 
 # Known Bugs
-There are no known bugs.
-Improvements are encouraged.
+{There are no known bugs.
+Improvements are encouraged.}
 
 # Technologies Used
-* Python Programming,
-* Libraries: Numpy & Pandas. 
+{* Python Programming,
+* Libraries: Numpy & Pandas.} 
 
 # Support and contact details
 { To make a contribution to the code or any part of the project, kindly contact me through; jackkyalo978@gmail.com}
@@ -26,4 +26,4 @@ Improvements are encouraged.
 #License
 {MIT}
 
-# Copyright (c) {2021} {Moringa School Data Science Class}
+Copyright (c) {2021} {Moringa School Data Science Class}
